@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&startDelay=1000&duration=1500&pause=10000&color=00FF41&width=435&lines=%24+./3xpl01t)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&startDelay=1000&duration=1500&pause=999999&color=00FF41&width=435&cursor=true&cursorChar=%E2%96%88&lines=%24+./3xpl01t)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&startDelay=6500&duration=3000&pause=900000&color=858585&width=435&lines=segmentation%20fault%20(core%20dumped).)](https://git.io/typing-svg)
 
